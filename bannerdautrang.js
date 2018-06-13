@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://datnensaigongiatot.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/--qKk6xlAhlY/WwLUxlxoNVI/AAAAAAAAHgE/OLEUklVGJTYmuxV4J1FFNTdNKSL-F5QhgCLcBGAs/s1600/BANNO.png' width='500px'/><br/>Khu dân cư Anh kiệt</a>. Liên hệ : 01687810345. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://datnensaigongiatot.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/--qKk6xlAhlY/WwLUxlxoNVI/AAAAAAAAHgE/OLEUklVGJTYmuxV4J1FFNTdNKSL-F5QhgCLcBGAs/s1600/BANNO.png' width='500px'/><br/>Đất nền nhà phố rẻ nhất SG</a>. Liên hệ : 01687810345. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
